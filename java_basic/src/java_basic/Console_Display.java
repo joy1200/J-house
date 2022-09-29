@@ -19,7 +19,7 @@ public class Console_Display {
 		System.out.printf("%5d\n", 20);
 		System.out.printf("%5d\n", 1220);		
 		
-		System.out.printf("%f\n", 1225.12515);
+		System.out.printf("%f\n", 1225.125115);
 		
 	}
 
