@@ -20,6 +20,7 @@ public class ConsoleDisplay {
 		System.out.printf("%5d\n", 1220);		
 		
 		System.out.printf("%f\n", 1225.12515);
+		
 	}
 
 }
