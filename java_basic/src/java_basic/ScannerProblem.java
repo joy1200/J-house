@@ -24,6 +24,7 @@ public class ScannerProblem {
 		
 		
 		sc.close();
+		
 	}
 
 }
