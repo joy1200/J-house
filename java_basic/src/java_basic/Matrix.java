@@ -15,6 +15,7 @@ public class Matrix {
 		for (String[] imsi:color) {
 		
 			for (String temp:imsi) {
+				
 				System.out.print(temp+"\t");
 			}
 				System.out.println();
